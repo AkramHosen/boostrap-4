@@ -1,0 +1,20 @@
+
+.box{
+	min-height: 100px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+
+.black{
+	background-color: orange;
+}
+.alert-custom{
+	color:#fff703;
+	background-color: #9309a3;
+	border-color:#ff3b00;
+}
+
+
+
+
+
